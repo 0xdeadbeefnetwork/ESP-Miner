@@ -2,6 +2,8 @@
  * SPDX-FileCopyrightText: 2021-2023 Espressif Systems (Shanghai) CO LTD
  *
  * SPDX-License-Identifier: Unlicense OR CC0-1.0
+ * Few potential nasties fixed by _SiCK [wssh] 
+ * afflicted.sh
  */
 
 #include <inttypes.h>
